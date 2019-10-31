@@ -12,7 +12,8 @@
 |   7       |  语音识别ASR     |   讲课     |    CZ    |         |
 |   8       |  [AudioRec](APP安装)    |   实践    |    CJH    |         |
 |   9       |  语音识别实践：AudioNet    |  实践     |   CJH    |         |
-|   10      |  小结，[展望下节课](../WW9/WW9-Plan.md)    |        |     CZ     |         |
+|   10      |  机器人舞蹈robot-art  |  实践     |   GM    |         |
+|   11      |  小结，[展望下节课](../WW9/WW9-Plan.md)    |        |     CZ     |         |
 
 
 # Claim: Each topic is a big area, be patient.  
