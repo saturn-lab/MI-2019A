@@ -9,7 +9,7 @@
 |   4       |  [深度学习与机器学习](1AI-ML-DL.pdf)，    |  讲课    |   CZ    |          |
 |   5       |  [TensorFlow PlayGround](http://playground.tensorflow.org/)   |  实践    |    CZ   |         |
 |   6       |  卷积网络与循环网络  |   讲课    |    CJH   |         |
-|   7       |  语音识别ASR     |   讲课     |    CZ    |         |
+|   7       |  语音识别ASR     |   讲课     |    WHY    |         |
 |   8       |  [AudioRec](APP安装)    |   实践    |    CJH    |         |
 |   9       |  语音识别实践：AudioNet    |  实践     |   CJH    |         |
 |   10      |  机器人舞蹈robot-art  |  实践     |   GM    |         |
