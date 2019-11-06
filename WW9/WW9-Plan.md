@@ -1,6 +1,6 @@
 # Bring Your Laptop and smart phone  to Class. 
 
-```Lee Shau-Kee Building, Room B558
+```Lee Shau-Kee Building, Room B558```
 
 |时间段     |  内容    | 讲课 / 实践     |  分工  |  备注       |
 | :---      |   :----:    |   :----:    |    :----:    | ---: |
